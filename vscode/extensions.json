@@ -1,0 +1,148 @@
+[
+   {
+      "identifier": {
+         "id": "esbenp.prettier-vscode",
+         "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+      },
+      "version": "9.10.4",
+      "location": {
+         "$mid": 1,
+         "path": "/D:/VSCode/data/extensions/esbenp.prettier-vscode-9.10.4",
+         "scheme": "file"
+      },
+      "relativeLocation": "esbenp.prettier-vscode-9.10.4",
+      "metadata": {
+         "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+         "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+         "publisherDisplayName": "Prettier",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675554799533,
+         "preRelease": false
+      }
+   },
+   {
+      "identifier": {
+         "id": "dbaeumer.vscode-eslint",
+         "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+      },
+      "version": "2.2.6",
+      "location": {
+         "$mid": 1,
+         "path": "/D:/VSCode/data/extensions/dbaeumer.vscode-eslint-2.2.6",
+         "scheme": "file"
+      },
+      "relativeLocation": "dbaeumer.vscode-eslint-2.2.6",
+      "metadata": {
+         "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+         "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
+         "publisherDisplayName": "Microsoft",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675554846728,
+         "preRelease": false
+      }
+   },
+   {
+      "identifier": {
+         "id": "visualstudioexptteam.intellicode-api-usage-examples",
+         "uuid": "9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3"
+      },
+      "version": "0.2.7",
+      "location": {
+         "$mid": 1,
+         "path": "/D:/VSCode/data/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.7",
+         "scheme": "file"
+      },
+      "relativeLocation": "visualstudioexptteam.intellicode-api-usage-examples-0.2.7",
+      "metadata": {
+         "id": "9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3",
+         "publisherId": "e8db1608-52e8-4d8d-92a6-779c5db302a9",
+         "publisherDisplayName": "Microsoft",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675554841788,
+         "preRelease": false
+      }
+   },
+   {
+      "identifier": {
+         "id": "dracula-theme.theme-dracula",
+         "uuid": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1"
+      },
+      "version": "2.24.2",
+      "location": {
+         "$mid": 1,
+         "path": "/D:/VSCode/data/extensions/dracula-theme.theme-dracula-2.24.2",
+         "scheme": "file"
+      },
+      "relativeLocation": "dracula-theme.theme-dracula-2.24.2",
+      "metadata": {
+         "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
+         "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b",
+         "publisherDisplayName": "Dracula Theme",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675555041005,
+         "preRelease": false
+      }
+   },
+   {
+      "identifier": {
+         "id": "vscode-icons-team.vscode-icons",
+         "uuid": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a"
+      },
+      "version": "12.2.0",
+      "location": {
+         "$mid": 1,
+         "path": "/D:/VSCode/data/extensions/vscode-icons-team.vscode-icons-12.2.0",
+         "scheme": "file"
+      },
+      "relativeLocation": "vscode-icons-team.vscode-icons-12.2.0",
+      "metadata": {
+         "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+         "publisherId": "652ad61d-3a6a-48ca-ab1a-80dc8953b2b6",
+         "publisherDisplayName": "VSCode Icons Team",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675554962116,
+         "preRelease": false
+      }
+   },
+   {
+      "identifier": {
+         "id": "visualstudioexptteam.vscodeintellicode",
+         "uuid": "876e8f93-74d0-4f4f-91b7-34a09f19f444"
+      },
+      "version": "1.2.30",
+      "location": {
+         "$mid": 1,
+         "fsPath": "d:\\VSCode\\data\\extensions\\visualstudioexptteam.vscodeintellicode-1.2.30",
+         "_sep": 1,
+         "path": "/d:/VSCode/data/extensions/visualstudioexptteam.vscodeintellicode-1.2.30",
+         "scheme": "file"
+      },
+      "relativeLocation": "visualstudioexptteam.vscodeintellicode-1.2.30",
+      "metadata": {
+         "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+         "publisherId": "e8db1608-52e8-4d8d-92a6-779c5db302a9",
+         "publisherDisplayName": "Microsoft",
+         "targetPlatform": "undefined",
+         "isApplicationScoped": false,
+         "updated": false,
+         "isPreReleaseVersion": false,
+         "installedTimestamp": 1675554865375,
+         "preRelease": false
+      }
+   }
+]
