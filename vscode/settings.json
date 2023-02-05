@@ -1,0 +1,19 @@
+{
+   /* Editor Settings */
+   "editor.minimap.enabled": false,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.formatOnSave": true,
+
+   /* Theme, Icon and Font */
+   "workbench.colorTheme": "Dracula",
+   "workbench.iconTheme": "vscode-icons",
+   "editor.fontFamily": "JetBrainsMono NFM",
+   "terminal.integrated.fontFamily": "FiraCode NFM Retina",
+
+   /* Git Settings */
+   "git.autofetch": true,
+
+   /* Prettier Settings */
+   "prettier.arrowParens": "avoid",
+   "prettier.tabWidth": 3
+}
