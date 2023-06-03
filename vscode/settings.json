@@ -1,19 +1,33 @@
 {
-   /* Editor Settings */
-   "editor.minimap.enabled": false,
+   /* Normal VSCode Settings */
+   "diffEditor.ignoreTrimWhitespace": false,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
    "editor.formatOnSave": true,
+   "editor.linkedEditing": true,
+   "editor.minimap.enabled": false,
+   "javascript.updateImportsOnFileMove.enabled": "always",
+   "security.workspace.trust.untrustedFiles": "open",
+   "workbench.startupEditor": "none",
 
-   /* Theme, Icon and Font */
-   "workbench.colorTheme": "Dracula",
-   "workbench.iconTheme": "vscode-icons",
-   "editor.fontFamily": "JetBrainsMono NFM",
-   "terminal.integrated.fontFamily": "FiraCode NFM Retina",
+   /* Theme & Icons */
+   "workbench.colorTheme": "Atom One Dark",
+   "workbench.iconTheme": "material-icon-theme",
 
-   /* Git Settings */
+   /* Fonts */
+   "editor.fontFamily": "Fira Code Regular",
+   "terminal.integrated.fontFamily": "Hack Regular",
+   "editor.fontLigatures": true,
+   // "editor.fontSize": 14,
+
+   /* Git Related */
    "git.autofetch": true,
+   "git.confirmSync": false,
+   "git.enableSmartCommit": true,
 
    /* Prettier Settings */
    "prettier.arrowParens": "avoid",
-   "prettier.tabWidth": 3
+   "prettier.tabWidth": 3,
+
+   /* Other */
+   "tabnine.experimentalAutoImports": true
 }
