@@ -14,10 +14,10 @@
    "workbench.iconTheme": "vscode-icons",
 
    /* Fonts */
-   "editor.fontFamily": "Fira Code Regular",
-   "terminal.integrated.fontFamily": "Hack Regular",
+   "editor.fontFamily": "JetBrains Mono Regular",
+   "terminal.integrated.fontFamily": "MesloLGS NF Regular", // Patched fonts for powerlevel10k
    "editor.fontLigatures": true,
-   /* "editor.fontSize": 14, */
+   // "editor.fontSize": 14,
 
    /* Git Related */
    "git.autofetch": true,
