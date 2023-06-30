@@ -14,8 +14,8 @@
    "workbench.iconTheme": "vscode-icons",
 
    /* Fonts */
-   "editor.fontFamily": "JetBrains Mono Regular",
-   "terminal.integrated.fontFamily": "MesloLGS NF Regular", // Patched fonts for powerlevel10k
+   "editor.fontFamily": "JetBrains Mono",
+   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
    "editor.fontLigatures": true,
    // "editor.fontSize": 14,
 
