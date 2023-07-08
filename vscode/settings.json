@@ -7,15 +7,14 @@
    "editor.minimap.enabled": false,
    "javascript.updateImportsOnFileMove.enabled": "always",
    "security.workspace.trust.untrustedFiles": "open",
+   "terminal.integrated.defaultProfile.windows": "PowerShell",
    "workbench.startupEditor": "none",
-
-   /* Theme & Icons */
-   "workbench.colorTheme": "Atom One Dark",
-   "workbench.iconTheme": "vscode-icons",
+   "workbench.colorTheme": "Material Theme Darker High Contrast",
+   "workbench.iconTheme": "eq-material-theme-icons-darker",
 
    /* Fonts */
    "editor.fontFamily": "JetBrains Mono",
-   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+   "terminal.integrated.fontFamily": "Hack Nerd Font",
    "editor.fontLigatures": true,
    // "editor.fontSize": 14,
 
@@ -27,6 +26,11 @@
    /* Prettier Settings */
    "prettier.arrowParens": "avoid",
    "prettier.tabWidth": 3,
+
+   /* Custom Formatter */
+   "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+   },
 
    /* Other */
    "git.ignoreMissingGitWarning": true,
