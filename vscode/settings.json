@@ -35,5 +35,16 @@
 
    /* Other */
    "liveServer.settings.donotShowInfoMsg": true,
-   "vsicons.dontShowNewVersionMessage": true
+   "vsicons.dontShowNewVersionMessage": true,
+   "indentRainbow.colors": [
+      "rgba(24, 78, 119,0.15)",
+      "rgba(30, 96, 145,0.15)",
+      "rgba(26, 117, 159, 0.15)",
+      "rgba(22, 138, 173,0.15)",
+      "rgba(52, 160, 164,0.15)",
+      "rgba(82, 182, 154,0.15)",
+      "rgba(82, 182, 154,0.1)",
+      "rgba(82, 182, 154,0.05)",
+      "rgba(82, 182, 154,0.025)"
+   ]
 }
