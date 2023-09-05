@@ -7,10 +7,9 @@
    "editor.minimap.enabled": false,
    "javascript.updateImportsOnFileMove.enabled": "always",
    "security.workspace.trust.untrustedFiles": "open",
-   "terminal.integrated.defaultProfile.windows": "PowerShell",
    "workbench.startupEditor": "none",
-   "workbench.colorTheme": "Material Theme Darker High Contrast",
-   "workbench.iconTheme": "eq-material-theme-icons-darker",
+   "workbench.colorTheme": "Atom One Dark",
+   "workbench.iconTheme": "vscode-icons",
 
    /* Fonts */
    "editor.fontFamily": "JetBrains Mono",
@@ -22,10 +21,12 @@
    "git.autofetch": true,
    "git.confirmSync": false,
    "git.enableSmartCommit": true,
+   "git.ignoreMissingGitWarning": true,
 
    /* Prettier Settings */
    "prettier.arrowParens": "avoid",
    "prettier.tabWidth": 3,
+   "prettier.trailingComma": "none",
 
    /* Custom Formatter */
    "[prisma]": {
@@ -33,6 +34,6 @@
    },
 
    /* Other */
-   "git.ignoreMissingGitWarning": true,
-   "liveServer.settings.donotShowInfoMsg": true
+   "liveServer.settings.donotShowInfoMsg": true,
+   "vsicons.dontShowNewVersionMessage": true
 }
