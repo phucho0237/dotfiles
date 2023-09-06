@@ -8,7 +8,7 @@
    "javascript.updateImportsOnFileMove.enabled": "always",
    "security.workspace.trust.untrustedFiles": "open",
    "workbench.startupEditor": "none",
-   "workbench.colorTheme": "Atom One Dark",
+   "workbench.colorTheme": "Dracula",
    "workbench.iconTheme": "vscode-icons",
 
    /* Fonts */
