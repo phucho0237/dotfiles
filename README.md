@@ -1,2 +1,2 @@
 # dotfile
-My personal dotfile
+My dotfile
