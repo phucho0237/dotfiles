@@ -1,41 +1,21 @@
 {
-   /* Normal VSCode Settings */
+   "[markdown]": {
+      "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+   },
+   "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+   },
    "diffEditor.ignoreTrimWhitespace": false,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.fontFamily": "JetBrains Mono",
+   "editor.fontLigatures": true,
    "editor.formatOnSave": true,
    "editor.linkedEditing": true,
    "editor.minimap.enabled": false,
-   "javascript.updateImportsOnFileMove.enabled": "always",
-   "security.workspace.trust.untrustedFiles": "open",
-   "workbench.startupEditor": "none",
-   "workbench.colorTheme": "Dracula",
-   "workbench.iconTheme": "vscode-icons",
-
-   /* Fonts */
-   "editor.fontFamily": "JetBrains Mono",
-   "terminal.integrated.fontFamily": "Hack Nerd Font",
-   "editor.fontLigatures": true,
-   // "editor.fontSize": 14,
-
-   /* Git Related */
    "git.autofetch": true,
    "git.confirmSync": false,
    "git.enableSmartCommit": true,
    "git.ignoreMissingGitWarning": true,
-
-   /* Prettier Settings */
-   "prettier.arrowParens": "avoid",
-   "prettier.tabWidth": 3,
-   "prettier.trailingComma": "none",
-
-   /* Custom Formatter */
-   "[prisma]": {
-      "editor.defaultFormatter": "Prisma.prisma"
-   },
-
-   /* Other */
-   "liveServer.settings.donotShowInfoMsg": true,
-   "vsicons.dontShowNewVersionMessage": true,
    "indentRainbow.colors": [
       "rgba(24, 78, 119,0.15)",
       "rgba(30, 96, 145,0.15)",
@@ -46,5 +26,18 @@
       "rgba(82, 182, 154,0.1)",
       "rgba(82, 182, 154,0.05)",
       "rgba(82, 182, 154,0.025)"
-   ]
+   ],
+   "javascript.updateImportsOnFileMove.enabled": "always",
+   "prettier.arrowParens": "avoid",
+   "prettier.tabWidth": 3,
+   "prettier.trailingComma": "none",
+   "security.workspace.trust.banner": "never",
+   "security.workspace.trust.untrustedFiles": "open",
+   "terminal.integrated.fontFamily": "Hack Nerd Font",
+   "vsicons.dontShowNewVersionMessage": true,
+   "window.commandCenter": false,
+   "workbench.colorTheme": "Dracula",
+   "workbench.iconTheme": "vscode-icons",
+   "workbench.layoutControl.enabled": false,
+   "workbench.startupEditor": "none"
 }
