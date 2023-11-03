@@ -36,8 +36,8 @@
    "terminal.integrated.fontFamily": "Hack Nerd Font",
    "vsicons.dontShowNewVersionMessage": true,
    "window.commandCenter": false,
-   "workbench.colorTheme": "Dracula",
-   "workbench.iconTheme": "vscode-icons",
+   "workbench.colorTheme": "Monokai Pro",
+   "workbench.iconTheme": "Monokai Pro Icons",
    "workbench.layoutControl.enabled": false,
    "workbench.startupEditor": "none"
 }
