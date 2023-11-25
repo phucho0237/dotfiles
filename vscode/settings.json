@@ -36,8 +36,8 @@
    "terminal.integrated.defaultProfile.windows": "PowerShell",
    "terminal.integrated.fontFamily": "Hack Nerd Font",
    "window.commandCenter": false,
-   "workbench.colorTheme": "Monokai Pro",
-   "workbench.iconTheme": "Monokai Pro Icons",
+   "workbench.colorTheme": "Dracula",
+   "workbench.iconTheme": "catppuccin-perfect-dark",
    "workbench.layoutControl.enabled": false,
    "workbench.startupEditor": "none"
 }
