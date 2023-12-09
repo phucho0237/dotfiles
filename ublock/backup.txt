@@ -6,8 +6,7 @@
     "uiAccentCustom0": "#56a22b",
     "externalLists": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt",
     "importedLists": [
-      "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
-      "https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt"
+      "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
     ],
     "suspendUntilListsAreLoaded": true,
     "tooltipsDisabled": true
