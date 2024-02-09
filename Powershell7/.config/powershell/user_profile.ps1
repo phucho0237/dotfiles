@@ -1,7 +1,3 @@
-# !IMPORTANT: Install Terminal-Icons and z first
-# > Install-Module -Name Terminal-Icons -Force
-# > Install-Module -Name z -Force
-
 # Required Module
 Import-Module Terminal-Icons
 
