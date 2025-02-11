@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1739280085174,
+  "timeStamp": 1739288743729,
   "version": "1.62.0",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -31,7 +31,6 @@
     "ublock-cookies-adguard",
     "fanboy-social",
     "adguard-social",
-    "fanboy-thirdparty_social",
     "easylist-chat",
     "easylist-newsletters",
     "easylist-notifications",
