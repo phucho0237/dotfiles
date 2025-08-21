@@ -1,0 +1,62 @@
+{
+  "timeStamp": 1755772054528,
+  "version": "1.65.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "externalLists": "https://badblock.celenity.dev/abp/unsafe.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt\nhttps://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt\nhttps://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt\nhttps://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt",
+    "importedLists": [
+      "https://badblock.celenity.dev/abp/unsafe.txt",
+      "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
+      "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt",
+      "https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt",
+      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
+      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
+      "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt"
+    ]
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "adguard-mobile",
+    "easyprivacy",
+    "adguard-spyware-url",
+    "block-lan",
+    "urlhaus-1",
+    "plowe-0",
+    "dpollock-0",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "fanboy-social",
+    "easylist-chat",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "easylist-annoyances",
+    "ublock-annoyances",
+    "VIE-1",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
+    "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt",
+    "https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
+  ],
+  "hiddenSettings": {
+    "autoCommentFilterTemplate": "{{url}}",
+    "autoUpdateDelayAfterLaunch": 10,
+    "filterAuthorMode": true,
+    "updateAssetBypassBrowserCache": true
+  },
+  "whitelist": [
+    "chrome-extension-scheme",
+    "moz-extension-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
